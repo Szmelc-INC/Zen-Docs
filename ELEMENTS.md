@@ -2,6 +2,7 @@
 
 ---
 
+> ### 0. Header
 > ### 1. Setup
 > ### 2. Info
 > ### 3. Usage
@@ -10,6 +11,62 @@
 > ### 6. More
 > ### 7. Details
  
+---
+
+> # 0. Project Header
+
+<div align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/user-attachments/assets/b5ade63b-ecfb-4691-b9b9-40917d0a5161"">
+   <source media="(prefers-color-scheme: light)"  srcset="https://github.com/user-attachments/assets/b5ade63b-ecfb-4691-b9b9-40917d0a5161"">
+    <img src="https://i.imgur.com/qpgeyna.png" alt="cDvD" width="124" /> </picture>
+ 
+ <h1><samp><b> Project Title </b></samp></h1>
+ <table><tr><td> Project description... </td></tr></table>
+    <i><samp><h4> Desc 2... </samp></i><a></a> <a></a>
+
+<p>
+    <!-- <a href="https://github.com/Szmelc-INC/cdvd">
+    </a>
+    <img alt="C" src="https://img.shields.io/badge/Language-00599C?style=flat&logo=c&logoColor=white" height="34">
+    <a href="https://github.com/Szmelc-INC/cdvd/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/Szmelc-INC/cdvd?style=flat" height="34">
+    </a> --> 
+</p>
+    
+ <nav align="center">
+  <!-- Row 1: stars · forks · contributors · license  -->
+  <a href="https://github.com/Szmelc-INC/cdvd/stargazers">
+    <img src="https://img.shields.io/github/stars/Szmelc-INC/cdvd?style=flat&color=gold" alt="stars">
+  </a><a>
+  <a href="https://github.com/Szmelc-INC/cdvd/network/members">
+    <img src="https://img.shields.io/github/forks/Szmelc-INC/cdvd?style=flat&color=81C459" alt="forks">
+  </a><a>
+  <a href="https://github.com/Szmelc-INC/cdvd/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors-anon/Szmelc-INC/cdvd?style=flat&color=1E7B85" alt="contributors">
+  </a>
+  <a href="https://github.com/Szmelc-INC/cdvd/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Szmelc-INC/cdvd?style=flat&color=FF570A" alt="pull requests">
+  </a><a>
+  <a href="https://github.com/Szmelc-INC/cdvd/commits">
+    <img src="https://img.shields.io/github/last-commit/Szmelc-INC/cdvd?style=flat" alt="last commit">
+  </a>
+  <br>
+
+   >
+
+  <!-- Row 2: discord · youtube · website -->
+  <a href="https://discord.gg/xSYSqufd">
+    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat&logo=discord&logoColor=white" alt="discord">
+  </a><a>
+  <a href="https://youtube.com/@LinuxMajster">
+    <img src="https://img.shields.io/badge/youtube-darkred?style=flat&logo=youtube&logoColor=white" alt="youtube">
+  </a><a>
+  <a href="https://szmelc.com">
+    <img src="https://img.shields.io/badge/website-szmelc.com-purple?style=flat&labelColor=darkcyan&color=104C35" alt="website">
+  </a><a>
+</div>
+
 ---
 
 > # 1. Setup
